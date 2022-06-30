@@ -1,0 +1,15 @@
+[user1@UnixRLLServer ~]$ vi welcome.dat
+Hello, Welcome to Unix C++ Sys PBL.
+This course is teaching me Unix essential commands.
+I must practice the Vi Editor commands to become comfortable with the environment.
+I am practicing file and directory related commands.
+
+Press esc button and Enter
+:wq and press enter
+
+:s/PBL/PJP/g
+:set number
+Pointing the cursor to the second line and press dd. After that move the cursor to the last line and press pp.
+Pointing the cursor to the copying line and press yy. After that move the cursor to the second line and press pp.
+
+

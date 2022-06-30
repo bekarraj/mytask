@@ -1,0 +1,7 @@
+[user1@UnixRLLServer ~]$ touch pro1.c, prog2.c, app1.c app2.c, app12.c, app11.c
+[user1@UnixRLLServer ~]$ ls -l *.c
+[user1@UnixRLLServer ~]$ ls -l app*
+[user1@UnixRLLServer ~]$ ls app[12][12]*
+[user1@UnixRLLServer ~]$ ls prog???
+[user1@UnixRLLServer ~]$ rm *.c
+[user1@UnixRLLServer ~]$ rmdir PJP

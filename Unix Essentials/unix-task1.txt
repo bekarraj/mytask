@@ -1,0 +1,5 @@
+[user1@UnixRLLServer ~]$ mkdir PJP
+[user1@UnixRLLServer ~]$ cd PJP
+[user1@UnixRLLServer ~]$ pwd/home/user1/PJP
+[user1@UnixRLLServer ~]$ touch john.dat
+[user1@UnixRLLServer ~]$ ls
